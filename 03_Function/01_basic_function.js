@@ -1,12 +1,14 @@
 
 
 function sayMyName(){
+    console.log("A");
+    console.log("R");
+    console.log("U");
     console.log("N");
-    console.log("I");
-    console.log("K");
+    console.log("E");
+    console.log("S");
     console.log("H");
-    console.log("I");
-    console.log("L");
+    
 
 }
 
@@ -29,6 +31,6 @@ function loginUserMessage (username){
     }
     return ` ${username} just logged in!`
 }
-// console.log(loginUserMessage("Nikhil"))
+// console.log(loginUserMessage("Arunesh"))
 // when the value is not passed in the parameter of login message the output is undefined not null 
 console.log(loginUserMessage());// heere is the example of that thing 

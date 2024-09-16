@@ -1,7 +1,7 @@
 // this is used for the refence of the current context
 
 const user ={
-    username:"Nikhil",
+    username:"Arunesh",
     price:999,
 
     welcomeMessage:function(){
@@ -26,7 +26,7 @@ const user ={
 
 
 // function chai(){
-//     let username ="Nikhil"
+//     let username ="Arunesh"
 //     console.log(this.username);
 // }
 // chai()
@@ -34,7 +34,7 @@ const user ={
 
 
 const chai=function (){
-    let username = "Nikhil"
+    let username = "Arunesh"
     console.log(username);
 }
 chai()
@@ -43,7 +43,7 @@ chai()
 
 
 const chai1= () => {
-    let username = "Nikhil"
+    let username = "Arunesh"
     console.log(username);
 }
 
@@ -71,5 +71,5 @@ chai1()
 //  console.log(addTwo(3,5));
 
 
-// const addTwo = (num1,num2) => ({username : "hitesh"})
+// const addTwo = (num1,num2) => ({username : "Arunesh"})
 // console.log(addTwo(3,5));

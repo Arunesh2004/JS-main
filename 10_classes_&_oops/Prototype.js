@@ -1,4 +1,4 @@
-// let myName = "Nikhil       "
+// let myName = "Arunesh       "
 // let mychannel = "chai       "
 // we need to create a method called truelength
 // which will return the actual length of the string
@@ -35,8 +35,8 @@ Array.prototype.heyHitesh = function(){
 // inheritance 
 
 const User ={
-    name: "Nikhil",
-    email: "nikhil@gmail.com",
+    name: "Arunesh",
+    email: "Arunesh@gmail.com",
 
 }
 const Teacher ={

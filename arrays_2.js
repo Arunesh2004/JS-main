@@ -20,9 +20,9 @@ const dc_heors=["superman","flash","batman"];
 // const real_another_array= another_array.flat(Infinity);
 // console.log(real_another_array); // [1, 2, 3, 4,
 
-console.log((Array.isArray("Nikhil")))
-console.log(Array.from("Nikhil"));
-console.log(Array.from({name:"Nikhil"})); // interseting thing 
+console.log((Array.isArray("Arunesh")))
+console.log(Array.from("Arunesh"));
+console.log(Array.from({name:"Arunesh"})); // interseting thing 
 
 let score1 = 100
 let score2 = 200

@@ -59,7 +59,7 @@ console.log(Object.entries(tinderUser));
 const course = {
     coursename:"js in hindi",
     price:"999",
-    courseInstructor:"hitesh"
+    courseInstructor:"Arunesh"
 }
 
 // course.courseInstructor
@@ -72,7 +72,7 @@ console.log(instructor);
 
 // ---------------------- JSON--------------------
 // {
-    // name:"Nikhil",
+    // name:"Arunesh",
     // age:22,
 
 // }
